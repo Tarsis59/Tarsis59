@@ -1,34 +1,7 @@
-Olá , Sou um graduando no Curso bacharelado em Cumputer Science na Faculdade da UESC de ilhéus na Bahia.
-
-Olá, este é @Tarsis59, um estudante de programação apaixonado e dedicado. Ele está sempre buscando expandir seus conhecimentos e habilidades na área de tecnologia. 
-Atualmente, ele está aprendendo novas linguagens de programação e explorando diferentes áreas da ciência da computação.
-
-@Tarsis59 está interessado em colaborar em projetos que desafiam suas habilidades e o ajudam a crescer como programador. 
-Ele acredita firmemente no poder do trabalho em equipe e está sempre disposto a contribuir com suas habilidades e conhecimentos.
-
-Se você deseja entrar em contato com @Tarsis59, ele está sempre disponível para discussões sobre programação e colaborações em projetos.
-Ele é um estudante de programação entusiasmado e está ansioso para fazer a diferença no mundo da tecnologia. 
-
-@Tarsis59 é um estudante de programação que tem uma paixão insaciável por computação e tecnologia. 
-Ele está sempre em busca de novos desafios e oportunidades para expandir seus horizontes no campo da tecnologia. Aqui estão algumas informações adicionais sobre ele:
-
-Curiosidade Infinita: @Tarsis59 tem uma curiosidade insaciável. Ele está sempre procurando aprender mais sobre os últimos avanços em computação e tecnologia. 
-Seja a mais recente linguagem de programação, uma nova estrutura de desenvolvimento web, ou a última tendência em inteligência artificial, @Tarsis59 está sempre no topo das novidades.
-
-Aprendizado Autodidata: @Tarsis59 acredita no poder do aprendizado autodidata. Ele passa inúmeras horas pesquisando e aprendendo novos conceitos por conta própria. 
-Ele acredita que a melhor maneira de aprender é fazendo, e ele não tem medo de se jogar em projetos desafiadores para ganhar experiência prática.
-
-Colaboração e Trabalho em Equipe: @Tarsis59 adora trabalhar em equipe. Ele acredita que a colaboração é a chave para resolver os problemas mais complexos. 
-Ele está sempre procurando oportunidades para colaborar com outros entusiastas da tecnologia em projetos interessantes.
-
-Disponibilidade para Aprender: @Tarsis59 está sempre disposto a aprender. Ele está aberto a novas ideias e abordagens, e está sempre procurando maneiras de melhorar suas habilidades. 
-Ele vê cada desafio como uma oportunidade de aprendizado e está sempre pronto para assumir novos desafios.
-
-Estudos: @Tarsis59 é um estudante dedicado. Ele está sempre procurando maneiras de aplicar o que aprendeu em sala de aula em projetos do mundo real. 
-Ele acredita que a teoria e a prática andam de mãos dadas, e ele se esforça para ter um equilíbrio entre os dois em seus estudos.
-
-Interesses Diversificados: Além de sua paixão pela programação, @Tarsis59 tem uma ampla gama de interesses em tecnologia. 
-Ele está interessado em tudo, desde design de UX/UI até ciência de dados, aprendizado de máquina e muito mais.
-
-Em resumo, @Tarsis59 é um estudante de programação dedicado e apaixonado que está sempre procurando maneiras de expandir seus conhecimentos e habilidades. 
-Ele é um exemplo brilhante de um aprendiz ao longo da vida na área de tecnologia.
+Como desenvolvedor mobile com sólida experiência em plataformas nativas e híbridas, Társis Barreto se destaca pela capacidade de entregar soluções completas e inovadoras, que priorizam a qualidade, a performance e a usabilidade. Com experiência prática adquirida no Restic 36 e em projetos freelancer, Társis demonstra domínio de linguagens como Kotlin, Swift, Dart e JavaScript, além de frameworks populares como Flutter e React Native.
+No Restic 36, Társis liderou o desenvolvimento de diversos projetos internos, incluindo um aplicativo de gestão de tarefas que otimizou significativamente o fluxo de trabalho da equipe. Ele também foi responsável pela implementação de um aplicativo de monitoramento de dados, utilizando tecnologias como WebSockets e bancos de dados locais para garantir uma experiência de usuário eficiente, mesmo sem conexão com a internet. Além disso, ele tem uma sólida experiência na manutenção e modernização de aplicações legadas, convertendo sistemas antigos para linguagens mais modernas e melhorando a performance em até 30%.
+Como freelancer, Társis desenvolveu projetos notáveis, incluindo um aplicativo de e-commerce utilizando React Native, que oferecia uma experiência de compra fluida com integração a gateways de pagamento seguros e interface intuitiva. Outro projeto importante foi o desenvolvimento de um aplicativo de saúde e bem-estar, com monitoramento diário de humor e meditação guiada, focado na experiência do usuário. Ele também criou um aplicativo de reservas para serviços locais, integrando agenda automatizada e sistema de pagamento, destacando sua habilidade de criar soluções específicas para diferentes segmentos.
+Em termos de formação, Társis é bacharelando em Ciência da Computação, onde se destacou no desenvolvimento de aplicações mobile e APIs RESTful. Projetos acadêmicos importantes incluíram um sistema completo de gestão de estoque, aplicando metodologias ágeis como Scrum, além de prototipagens rápidas para validação de ideias, usando ferramentas como Figma e Adobe XD. Esse background acadêmico lhe proporcionou um conhecimento profundo de estruturas de dados, algoritmos, engenharia de software e redes de computadores, complementando sua experiência prática.
+Társis também possui experiência em otimização e testes automatizados, garantindo a qualidade e a performance dos projetos que desenvolve. Ele implementa técnicas de teste unitário e de integração, utilizando frameworks como JUnit e XCTest, e realiza monitoramento constante da performance, aplicando ajustes baseados em ferramentas como Firebase Performance Monitoring e Android Profiler. Sua familiaridade com ferramentas de versionamento, CI/CD, e ambientes de cloud computing (AWS, Firebase) reforçam sua competência em manter um ciclo de desenvolvimento ágil e eficiente.
+O que diferencia Társis dos outros profissionais é sua proatividade e compromisso com a inovação. Ele mantém-se constantemente atualizado sobre novas tecnologias e tendências de mercado, aplicando práticas modernas de desenvolvimento, como design patterns e princípios SOLID. Com forte habilidade de comunicação, Társis consegue traduzir conceitos técnicos complexos em linguagem acessível, colaborando eficazmente com equipes multidisciplinares para alcançar os melhores resultados.
+Essa combinação de habilidades técnicas, experiência prática diversificada, projetos inovadores e forte base teórica torna Társis Barreto um candidato excepcional para qualquer vaga na área de desenvolvimento mobile, apto a enfrentar desafios complexos e entregar soluções que fazem a diferença.
